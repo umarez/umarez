@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarez&label=Profile%20views&color=0e75b6&style=flat" alt="umarez" /> </p>
 
-- 🔭 I’m currently working as a Fullstack Engineer at [Lumina](https://lumina.mba/)
+- 🔭 I’m currently working as a Fullstack Engineer @[Skilldeck](https://skilldeck.io) 
+- Ex Fullstack Engineer  @[Lumina](https://lumina.mba/)
 
 - 📫 Reach me through **izzuddinumar13@gmail.com**
 
