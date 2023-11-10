@@ -3,12 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarez&label=Profile%20views&color=0e75b6&style=flat" alt="umarez" /> </p>
 
+## Experiences
 - Fullstack Engineer @[Skilldeck](https://skilldeck.io) 
 - Mobile Developer @[Pegipegi](https://www.pegipegi.com/)
 - Backend Engineer @[Tech Japan](https://www.techjapan.work/)
-- Ex Fullstack Engineer  @[Lumina](https://lumina.mba/)
+- Fullstack Engineer  @[Lumina](https://lumina.mba/)
 
-- 📫 Reach me through **izzuddinumar13@gmail.com**
+
+📫 Reach me through **izzuddinumar13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
