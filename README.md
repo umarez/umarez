@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar Izzuddin</h1>
-<h3 align="center">Hello, I'm Umar Izzuddin! 😃 software engineer who passionate about IT Development 🛠🖥. Currently active in web development as full stack developer with latest technology such as Next.js, Graphql, AWS, Docker and many more! My interest in technology has driven me to be a guy who never stops learning</h3>
+<h3 align="center">Hello, I'm Umar Izzuddin! 😃 software engineer who passionate about IT Development 🛠🖥. Currently active in web development as full stack developer with the latest technology such as Next.js, Graphql, AWS, Docker, and many more! My interest in technology has driven me to be the guy who never stops learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarez&label=Profile%20views&color=0e75b6&style=flat" alt="umarez" /> </p>
 
